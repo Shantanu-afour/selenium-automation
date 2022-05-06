@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-05T11:47:45 IST" name="Suite1" finished-at="2022-05-05T11:48:56 IST" duration-ms="70901">
+    <groups>
+    </groups>
+    <test started-at="2022-05-05T11:47:45 IST" name="Test1" finished-at="2022-05-05T11:48:56 IST" duration-ms="70901">
+      <class name="selenium.testng.maven.FirstTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:selenium.testng.maven.FirstTest@5fdcaa40]" started-at="2022-05-05T11:47:45 IST" name="setUp" finished-at="2022-05-05T11:47:47 IST" duration-ms="1809" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="CartTest()[pri:0, instance:selenium.testng.maven.FirstTest@5fdcaa40]" started-at="2022-05-05T11:47:47 IST" name="CartTest" finished-at="2022-05-05T11:48:56 IST" duration-ms="68859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CartTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:selenium.testng.maven.FirstTest@5fdcaa40]" started-at="2022-05-05T11:48:56 IST" name="tearDown" finished-at="2022-05-05T11:48:56 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- selenium.testng.maven.FirstTest -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
